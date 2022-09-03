@@ -1,0 +1,5 @@
+Tuple1=(0,1,2,3)
+Tuple2=('Nature','See')
+Tuple3=(Tuple1,Tuple2)
+print("/n Tuple with nested tuple:")
+print(Tuple3)
